@@ -79,8 +79,9 @@ To run the tests:
 ```shell
   yarn test
 ```
-## ✍️ Please give this repo a ⭐ if you found it helpful.
 
 ### Screenshots
 
 <img src="https://i.imgur.com/1mSOi8y.png"/>
+
+### ✍️ Please give this repo a ⭐ if you found it helpful.
