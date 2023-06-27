@@ -84,4 +84,32 @@ To run the tests:
 
 <img src="https://i.imgur.com/1mSOi8y.png"/>
 
-### ✍️ Please give this repo a ⭐ if you found it helpful.
+## Contribute to this project
+
+<blockquote>
+
+Thank you for browsing this repo. Any contributions you make are **greatly
+appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and
+create a pull request. You can also simply open an issue with the tag
+"enhancement". Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch 
+3. Commit your Changes 
+4. Push to the Branch 
+5. Open a Pull Request
+You can start your contribution with the following:
+##### Possible Improvements 🚀
+    - Add a clock under the game status, say counting down the seconds, to make it look more like a real-time app
+    - Add some animation to when updating the scores to make it easier for the user to spot the change
+    - Add some interactivity in general:
+        - Clicking on each game leading to a details pane with the match details
+        - Option for selecting favourite team
+    - Add another page/tab where the history summary of the past games can be read
+
+</blockquote>
+
+#### If you like this project, give it a ⭐ and share it with friends!
+
